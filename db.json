@@ -1,0 +1,7 @@
+{
+    "speech": "aaaaaaaaaaa",
+    "displayText":"bbbbbbbbbbbbbb",
+    "data": {...},
+    "contextOut": [...],
+    "source": string
+}
